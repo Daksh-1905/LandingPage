@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Ubuntu';
+    font-size: 100px;
+    font-weight: 10px;
+}
+p{
+    font-family: 'Ubuntu';
+    font-size: 20px;
+}
+.getStarted-button{
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Ubuntu';
+}
+
+.watchVideo-button{
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    background-color: white;
+    color: black;
+    border: none;
+    margin-left: 1rem;
+    border-radius: 4px;
+    font-family: 'Ubuntu';
+}
+.watchVideo-button:hover{
+    background-color: #FF5555;
+    transition: all 0.3s;
+}

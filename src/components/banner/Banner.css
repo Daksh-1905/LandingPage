@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.download-button-banner{
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-family: 'Ubuntu';
+}
+
+.download-button-banner:hover{
+    background-color: #FF5555;
+    transition: all 0.3s;
+}
